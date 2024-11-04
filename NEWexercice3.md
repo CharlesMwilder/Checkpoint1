@@ -1,13 +1,13 @@
-1.cat /etc/passwd
-2.chmod 744 myfile
-3.echo "*.pdf" >> .gitignore
-4.git checkout main ; merge test_valide
-5.
-6.
-7.La couche 2 : Commutateurs, ponts, etc. et la couche 3 : Routeurs, Gateways, etc.
-8.cd : Set-Location; cp: Copy-Item; mkdir: New-Item; ls : Get-ChildItem
-9.C'est là que vont vos données réelles, les informations qui sont transférées.
-10.Pour organiser les adresses IP en sous-réseaux
+1. cat /etc/passwd
+2. chmod 744 myfile
+3. echo "*.pdf" >> .gitignore
+4. git checkout main ; merge test_valide
+8.
+9.
+7. La couche 2 : Commutateurs, ponts, etc. et la couche 3 : Routeurs, Gateways, etc.
+8. cd : Set-Location; cp: Copy-Item; mkdir: New-Item; ls : Get-ChildItem
+9. C'est là que vont vos données réelles, les informations qui sont transférées.
+10. Pour organiser les adresses IP en sous-réseaux
 
 
 git merge test_valide
